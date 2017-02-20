@@ -54,6 +54,16 @@ Each ACT Rule MUST have a description that:
 * Explains the accessibility requirement being tested such as the WCAG Success Criterion.
 * Refers to any related information, such as the WCAG Techniques it maps to; For example WCAG 2.0, Technique H67.
 
+Accessibility Requirements {#structure-accessibility-requirements}
+-------------------------------------------------------------------
+
+Explain the accessibility requirement being tested such as the WCAG SC and / or the technique the rule maps to; For example WCAG 2.0 Technique H67.
+
+Limitations, Assumptions or Exceptions {#structure-limitations-assumptions-exceptions}
+-------------------------------------------------------------------
+
+List any limitations, assumptions or any exceptions for the test, the test environment, technologies being used or the subject being tested; For example: A rule for 1.4.1: Use of Color has to make an assumption with CSS-properties are used to make a link visually evident. Typically something like background, border, color, font, or text-decoration.
+
 Accessibility Support {#structure-acc-supp}
 ---------------------------------------
 
