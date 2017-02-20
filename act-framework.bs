@@ -2,6 +2,7 @@
 Title: Accessibility Conformance Testing Framework (FPWD proposed)
 Shortname: ACT-Framework
 URL: https://w3c.github.io/wcag-act/act-framework-FPWD-proposed-2017-02-20.html
+Latest Draft: https://w3c.github.io/wcag-act/act-framework.html
 Previous Version: https://w3c.github.io/wcag-act/archive_act-framework/2016-12-17.html
 Level: 6
 Status: w3c/ED
